@@ -35,3 +35,18 @@ CapsLock & o:: Send {(}
 CapsLock & p:: Send {)}
 CapsLock & [:: Send {-}
 CapsLock & ]:: Send {=}
+
+
+;================================================================================================
+; Capslock Numpad
+;================================================================================================
+CapsLock & q:: Send {7}
+CapsLock & w:: Send {8}
+CapsLock & e:: Send {9}
+CapsLock & a:: Send {4}
+CapsLock & s:: Send {5}
+CapsLock & d:: Send {6}
+CapsLock & z:: Send {1}
+CapsLock & x:: Send {2}
+CapsLock & c:: Send {3}
+CapsLock & Alt:: Send {0}
