@@ -20,10 +20,10 @@ return
 ;================================================================================================
 ; Vim like movement with CapsLock modifier
 ;================================================================================================ 
-CapsLock & h:: Send {Left}
-CapsLock & j:: Send {Down}
-CapsLock & k:: Send {Up}
-CapsLock & l:: Send {Right}
+CapsLock & h::Left
+CapsLock & j::Down
+CapsLock & k::Up
+CapsLock & l::Right
 
 ;================================================================================================
 ; Programming helpers
