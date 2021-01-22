@@ -29,6 +29,7 @@ CapsLock & l::Right
 ; Programming helpers
 ;================================================================================================
 CapsLock & Space:: Send {_}
+LShift & Space:: Send{_}
 CapsLock & u:: Send {&}
 CapsLock & i:: Send {*}
 CapsLock & o:: Send {(}
@@ -42,10 +43,10 @@ CapsLock & ]:: Send {=}
 ;================================================================================================
 CapsLock & q:: Send {7}
 CapsLock & w:: Send {8}
-CapsLock & e:: Send {9}
+CapsLock & f:: Send {9}
 CapsLock & a:: Send {4}
-CapsLock & s:: Send {5}
-CapsLock & d:: Send {6}
+CapsLock & r:: Send {5}
+CapsLock & s:: Send {6}
 CapsLock & z:: Send {1}
 CapsLock & x:: Send {2}
 CapsLock & c:: Send {3}
