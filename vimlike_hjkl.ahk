@@ -29,7 +29,7 @@ CapsLock & l::Right
 ; Programming helpers
 ;================================================================================================
 CapsLock & Space:: Send {_}
-LShift & Space:: Send{_}
+LShift & Space:: Send {_}
 CapsLock & u:: Send {&}
 CapsLock & i:: Send {*}
 CapsLock & o:: Send {(}
